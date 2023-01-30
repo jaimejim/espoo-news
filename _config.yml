@@ -12,7 +12,7 @@ url: "https://espoo.today" # the base hostname & protocol for your site, e.g. ht
 author:
   name: Espoo citizen 
   bio: this is just empty text for now.
-  image: '/images/01.jpg'
+  image: '/images/16.jpg'
   avatar: '/images/15.jpg'
 
 # Example of adding a new link to the section author - {name: "Github", link: "https://github.com"}
