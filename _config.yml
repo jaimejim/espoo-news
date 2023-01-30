@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Espoo News in english
+title: Espoo Today, local news in english
 logo: # You can add own logo. For example '/images/logo.png'.
 description: 
 baseurl: "/espoo-news" # the subpath of your site, e.g. /blog
