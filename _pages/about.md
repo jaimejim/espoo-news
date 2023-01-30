@@ -5,18 +5,29 @@ permalink: /about/
 image: '/images/50.jpg'
 ---
 
-Hi, my name is Jash Mehta. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Blah blah blah... I like to talk a lot(just kidding, I am laconic).
+Hi, my name is not important. I am a mysterious figure, often seen wandering the streets of Espoo. No one knows exactly who I am or where I came from. Some say I have a strange aura about me, while others claim to have seen me disappear into thin air. Despite my elusive nature, I am known to observe and listen, always present but never truly seen. I am a mystery, shrouded in secrecy, known only as a resident of Espoo.
 
-![Enjoy life]({{site.baseurl}}/images/51.jpg)
+![Enjoy life]({{site.baseurl}}/images/51.jpeg)
 *Enjoy life*
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger.
+> Bears roam in Finland's woodlands wide
+Two species call this place their guide
+The brown bear, largest of the two
+And black bears that roam wild and free, too
 
-<p><iframe src="https://www.youtube.com/embed/pdmtnB-O31c" frameborder="0" allowfullscreen></iframe></p>
+> With fur so thick, and paws so strong
+They roam and hunt all day long
+Through forests deep, and meadows fair
+Their presence known, a sight to share
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid.
+> Though feared by some, they're gentle creatures
+Roaming wild, in Finland's features
+With grace and strength, they live and thrive
+A symbol of this land, alive
 
-Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+> So next time you're wandering through the woods
+And hear a growl, or catch a glimpse of goods
+Remember, bears are part of this place
+Roaming free, with strength and grace.
 
-***
+> <cite>CGPT Bear</cite>
