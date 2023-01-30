@@ -3,8 +3,8 @@
 title: Espoo Today, local news in english
 logo: # You can add own logo. For example '/images/logo.png'.
 description: 
-baseurl: "/espoo-news" # the subpath of your site, e.g. /blog
-url: "https://jaime.win" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://espoo.today" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
@@ -45,7 +45,7 @@ accessToken:
 
 #-------------------------------
 # Google Analytics
-google-analytics: "tbd" # Add your identifier. For example UA-99631805-1.
+google-analytics: 'UA-83023169-1' # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
