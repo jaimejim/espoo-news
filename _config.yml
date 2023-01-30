@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Espoo Today, local news in english
+title: Espoo Today
 logo: # You can add own logo. For example '/images/logo.png'.
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -17,18 +17,18 @@ author:
 
 # Example of adding a new link to the section author - {name: "Github", link: "https://github.com"}
 author-social:
-- {name: "Facebook", link: "https://www.facebook.com/tbd"}
+#-- {name: "Facebook", link: "https://www.facebook.com/tbd"}
 #- {name: "Linkedin", link: "https://www.linkedin.com/in/yungtang-chou/"}
-- {name: "Github", link: "https://github.com/tbd"}
+#-#-- {name: "Github", link: "https://github.com/tbd"}
 
 #-------------------------------
 # Footer section
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
 contact:
-- {icon: "ion-logo-facebook", link: "https://www.facebook.com/tbd"}
+#-- {icon: "ion-logo-facebook", link: "https://www.facebook.com/tbd"}
 #- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/yungtang-chou/"}
-- {icon: "ion-logo-github", link: "https://github.com/tbd"}
+#-- {icon: "ion-logo-github", link: "https://github.com/tbd"}
 
 
 #-------------------------------
