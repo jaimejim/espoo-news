@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/50.png'
+image: '/images/50.jpg'
 ---
 
 Hi, my name is not important. I am a mysterious figure, often seen wandering the streets of Espoo. No one knows exactly who I am or where I came from. Some say I have a strange aura about me, while others claim to have seen me disappear into thin air. Despite my elusive nature, I am known to observe and listen, always present but never truly seen. I am a mystery, shrouded in secrecy, known only as a resident of Espoo.
