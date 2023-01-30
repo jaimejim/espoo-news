@@ -10,8 +10,8 @@ url: "https://espoo.today" # the base hostname & protocol for your site, e.g. ht
 #-------------------------------
 # Author Settings
 author:
-  name: Espoo citizen 
-  bio: this is just empty text for now.
+  name: Espoo Bear
+  bio: Bears roam in Finland's woodlands wide. Two species call this place  their guide. The brown bear, largest of the two and black bears that roam wild and free, too.
   image: '/images/16.jpg'
   avatar: '/images/15.jpg'
 
