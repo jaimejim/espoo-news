@@ -12,16 +12,16 @@ Ice swimming is a popular tradition in Finland, where many lakes and ponds freez
 The city of [Espoo provides some suggestions](https://www.espoo.fi/en/sports-and-nature/outdoor-exercise-facilities/winter-swimming-place) on where to go ice swimming. In total there are nine winter swimming venues provided by Sports Services, all of which are maintained by clubs and associations. 
 Many of these places do have a heated changing room that is divided by a curtain into a male and a female side. Entrance/exit via the door on your own side with no sauna or showers.
 
-*   [Espoonlahti Winter Swimming Area](https://www.espoo.fi/en/units/44521)
-*   [Haukilahti Winter Swimming Area](https://www.espoo.fi/en/units/44522)
-*   [Kallvik Winter Swimming Area](https://www.espoo.fi/en/units/44510)
+*   [Espoonlahti winter swimming area](https://www.espoo.fi/en/units/44521)
+*   [Haukilahti winter swimming area](https://www.espoo.fi/en/units/44522)
+*   [Kallvik winter swimming area](https://www.espoo.fi/en/units/44510)
 *   [Kivenlahti winter swimming area](https://www.espoo.fi/en/units/44545)
 *   [Laajalahti winter swimming area](https://www.espoo.fi/en/units/39627)
-*   [Laurinlahden talviuintipaikka (Tyrskyvuori)](https://www.espoo.fi/en/units/69116)
-*   [Matinkylä Winter swimming area](https://www.espoo.fi/en/units/44523)
+*   [Laurinlahden winter swimming area](https://www.espoo.fi/en/units/69116)
+*   [Matinkylä winter swimming area](https://www.espoo.fi/en/units/44523)
 *   [Pitkäjärvi winter swimming area](https://www.espoo.fi/en/units/44509)
-*   [Westend, winter swimming area](https://www.espoo.fi/en/units/67840)
-*   [Winter Swimming Area in Oittaa](https://www.espoo.fi/en/units/44524)
+*   [Westend winter swimming area](https://www.espoo.fi/en/units/67840)
+*   [Oittaa winter swimming area ](https://www.espoo.fi/en/units/44524)
 
 ### I can do it, so you can too
 
@@ -45,7 +45,7 @@ On top of that I would recommend ice shoes, gloves and a hat so that the heat do
 
 
 ![Lumibag]({{site.baseurl}}/images/ice.png)
-*Eira Ice Swimmer Bag*
+*Be brave and enjoy the moment*
 
 ### All set, ready and go!
 
