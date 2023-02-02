@@ -6,6 +6,14 @@ audio_file: '/audios/eyebrows.mp3'
 image:  '/images/06.jpg'
 tags:   Life
 ---
+
+
+![Norm]({{site.baseurl}}/audios/eyebrows.mp3)
+*Norm*
+Or
+
+{% include audio-player.html %}
+
 Still, she's got a lot of spirit. I don't know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can't get involved! I've got work to do! It's not that I like the Empire, I hate it, but there's nothing I can do about it right now. It's such a long way from here.
 
 ### I care. So, what do you think of her, Han?
