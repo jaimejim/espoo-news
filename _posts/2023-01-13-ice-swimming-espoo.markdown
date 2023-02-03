@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ice Swimming in Espoo is great
+title:  "Ice Swimming in Espoo is great"
 date:   2023-01-13 15:01:35 +0300
 image:  '/images/01.jpg'
 tags:   Work
