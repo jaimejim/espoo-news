@@ -47,6 +47,12 @@ On top of that I would recommend ice shoes, gloves and a hat so that the heat do
 ![Lumibag]({{site.baseurl}}/images/ice.png)
 *Be brave and enjoy the moment*
 
+
+<audio controls>
+  <source src="/audios/eyebrows.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 ### All set, ready and go!
 
 Ice swimming can be an exhilarating experience for those who enjoy challenging themselves and reap the benefits of ice baths. The rush of adrenaline from immersing oneself in icy water can be invigorating and create a sense of accomplishment. The physical and mental stimulation of the cold water can also lead to feelings of invigoration and mental clarity. Ice swimming is often practiced as part of winter sports and is a way to experience nature in a unique and intense way. Additionally, participating in ice swimming can help build resilience and toughness. Overall, ice swimming can be a thrilling and rewarding experience for those who are adventurous and looking for a challenge.
