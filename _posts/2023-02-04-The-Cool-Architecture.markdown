@@ -2,7 +2,7 @@
 layout: post 
 title: The Cool Architecture of Finnish Lapland
 date: 2023-02-04 00:14:21 +0200 
-image: https://oaidalleapiprodscus.blob.core.windows.net/private/org-wp3ysHh7zrwyE1DXbJkWAfx5/user-Vu0p3s6H4ZyKKbimrAILaR4p/img-7jPKEg4O8EykkDR3LhHyxgDz.png?st=2023-02-03T21%3A14%3A27Z&se=2023-02-03T23%3A14%3A27Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-02-03T21%3A07%3A27Z&ske=2023-02-04T21%3A07%3A27Z&sks=b&skv=2021-08-06&sig=1YnmbT25JNT32GAhi7zl0869An2tyUz0hhwFHEWxn/8%3D
+image: /images/img-IC5S2B5i2Zekd8sUykvPlNTu.png
 tags: News 
 --- 
 
