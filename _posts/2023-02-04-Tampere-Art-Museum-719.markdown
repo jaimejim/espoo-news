@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: Tampere Art Museum Reopens with Two New Exhibitions
+date: 2023-02-04 12:51:33 +0200 
+image: /images/1675507899.png
+tags: News 
+--- 
+
+Today, the Tampere Art Museum reopens with two new exhibitions: Win Aaltonen  The Joy of Creating and Bodies of Resistance. The former is an extensive retrospective of the life and works of renowned Finnish sculptor Win Aaltonen, while the latter is a celebration of the works of Del LaGrace Volcano. Both exhibitions will provide visitors with an opportunity to explore the creative process, and to appreciate the beauty of art in its many forms. The Win Aaltonen  The Joy of Creating exhibition is an exploration of the life and works of the renowned sculptor, who is known for his innovative use of materials and his groundbreaking approach to the art form. Featuring a wide selection of his sculptures and drawings, the exhibition celebrates the creative process and showcases the joy of creating. The Bodies of Resistance exhibition is devoted to the works of Del LaGrace Volcano, a renowned artist and gender theorist. Featuring a selection of their photographs, paintings, and sculptures, the exhibition celebrates the power of art to challenge preconceived notions of gender, identity, and culture. The works on display are a testament to the power of art to challenge oppressive systems and to create space for marginalized voices. The reopening of the Tampere Art Museum is an exciting event, and provides an opportunity to explore the creative process and to appreciate the beauty of art in its many forms. Whether youre a fan of Win Aaltonens sculptures, or a fan of Del LaGrace Volcanos gender theory, the exhibitions at the Tampere Art Museum are sure to inspire and delight. We look forward to visiting the museum and exploring its new exhibitions. 
