@@ -9,7 +9,8 @@ Espoo, Finland is known for its cold temperatures, particularly during the winte
 
 Ice swimming is a popular tradition in Finland, where many lakes and ponds freeze over in the winter. Despite the cold, people will strip down to their swimwear and take a quick dip in the ice-cold water. Some even participate in organized events, such as races and competitions, to see who can swim the farthest or the longest.
 
-The city of [Espoo provides some suggestions](https://www.espoo.fi/en/sports-and-nature/outdoor-exercise-facilities/winter-swimming-place) on where to go ice swimming. In total there are nine winter swimming venues provided by Sports Services, all of which are maintained by clubs and associations. 
+The city of [Espoo provides some suggestions](https://www.espoo.fi/en/sports-and-nature/outdoor-exercise-facilities/winter-swimming-place) on where to go ice swimming. In total there are nine winter swimming venues provided by Sports Services, all of which are maintained by clubs and associations.
+
 Many of these places do have a heated changing room that is divided by a curtain into a male and a female side. Entrance/exit via the door on your own side with no sauna or showers.
 
 *   [Espoonlahti winter swimming area](https://www.espoo.fi/en/units/44521)
