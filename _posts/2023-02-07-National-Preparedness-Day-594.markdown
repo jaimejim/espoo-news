@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: National Preparedness Day: Are You Ready?
+title: "National Preparedness Day: Are You Ready?"
 date: 2023-02-07 13:14:09 +0200 
 image: /images/1675768454.png
 tags: News 

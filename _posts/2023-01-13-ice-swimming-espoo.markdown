@@ -2,7 +2,7 @@
 layout: post
 title:  "Ice Swimming in Espoo is great"
 date:   2023-01-13 15:01:35 +0300
-image:  '/images/01.jpg'
+image:  '/images/1675462222.png'
 tags:   Work
 ---
 Espoo, Finland is known for its cold temperatures, particularly during the winter months. Despite the harsh weather, many Finns engage in ice swimming, which involves diving into a hole in the ice and swimming in the frigid water. This activity is beloved by many for its health benefits and the adrenaline rush it provides. Swimming in cold water has been shown to increase circulation and boost the immune system. Additionally, the sudden shock of the cold water can provide an invigorating and energizing experience.

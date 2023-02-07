@@ -12,4 +12,4 @@ The beauty of the Aurora Borealis is best appreciated when viewed with the moon 
 
 However, the Aurora Borealis can also be enjoyed without the moon. The night sky is still filled with a dazzling display of colors, and the experience can be just as breathtaking. Without the moon, the Aurora Borealis is more subtle and mysterious, providing a unique and tranquil experience.
 
-No matter which way you choose to enjoy the Aurora Borealis, it is sure to be an unforgettable experience. The majestic beauty of the Northern Lights is something that everyone should experience at least once in their lifetime, and Lapland is the perfect place to do so. So grab your coat and head out to Lapland to witness the beauty of the pink skies over Lapland. }
+No matter which way you choose to enjoy the Aurora Borealis, it is sure to be an unforgettable experience. The majestic beauty of the Northern Lights is something that everyone should experience at least once in their lifetime, and Lapland is the perfect place to do so. So grab your coat and head out to Lapland to witness the beauty of the pink skies over Lapland.

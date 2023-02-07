@@ -2,7 +2,7 @@
 layout: post 
 title: The Cool Architecture of Finnish Lapland
 date: 2023-02-04 00:14:21 +0200 
-image: /images/img-IC5S2B5i2Zekd8sUykvPlNTu.png
+image: /images/1675733334.png
 tags: News 
 --- 
 
