@@ -8,7 +8,7 @@ tags: News
 
 
 <audio controls>
-  <source src=/audios/1675810271.mp3 type="audio/mpeg">
+  <source src="/audios/1675810271.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
