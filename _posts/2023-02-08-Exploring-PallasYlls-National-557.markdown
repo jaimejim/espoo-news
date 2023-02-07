@@ -7,13 +7,10 @@ tags: News
 --- 
 
 
-      
-
- 
-      <audio controls>
-        <source src="' + /audios/1675810271.mp3 + '" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
+<audio controls>
+  <source src=/audios/1675810271.mp3 type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
  Exploring the pristine nature of Pallas-Ylls National Park has become a popular way to spend some restful moments surrounded by serene beauty and clean air. Whether youre looking to take a leisurely stroll and take in the sights and sounds of nature, or if youre seeking to challenge yourself with some of the more difficult and rugged terrain, Pallas-Ylls offers something for everyone.
 
