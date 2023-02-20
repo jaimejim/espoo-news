@@ -11,7 +11,7 @@ tags: News
         Your browser does not support the audio element.
       </audio>
 
-Ah, Mondays. They always seem to roll around so quickly after the weekend. But fear not, friends, for I have the perfect cure for the Monday blues: bear cubs. That's right, those cuddly bundles of fluff are guaranteed to turn any frown upside down. 
+Ah, Mondays. They always seem to roll around so quickly after the weekend. But fear not, friends, for I have the perfect cure for the Monday blues: bear cubs. That's right, those cuddly bundles of fluff are guaranteed to turn any frown upside down.
 
 Take a look at these delightful little guys from the amazing valtterimulkahainen IG account. [Picture of bear cub]
 
