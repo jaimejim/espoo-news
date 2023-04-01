@@ -1,0 +1,16 @@
+--- 
+layout: post 
+title: A Joke about Springtime
+date: 2023-04-01 18:58:35 +0900 
+image: /images/1680343115.png
+tags: News 
+--- 
+
+<audio controls>
+        <source src="/audios/1680343115.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+
+Ah, springtime. You know, I love it when the flowers begin to bloom and nature starts to awaken. It's like everything is so fresh and new. You know what I don't like about springtime, though? All the pollen in the air  it's enough to make an old man like me feel like he's been hit by a truck! 
+
+But seriously, I love walking around in the spring and seeing all the beauty nature has to offer. There's something so precious about it, and it reminds me to appreciate the simple things in life. That's why I always try to make the most of every single spring day. #EnjoyNature
