@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Ericsson 5G Base Stations: Cutting Edge Technology for Connectivity
+title: Ericsson 5G Base Stations, Cutting Edge Technology for Connectivity
 date: 2023-06-13 14:34:00 +0300 
 image: /images/1686656039.png
 tags: News 
